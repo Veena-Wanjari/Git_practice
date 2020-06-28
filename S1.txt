@@ -8,4 +8,3 @@ Use of the product by uninformed user is at the user’s risk.
 
 Warning: For best battery life, do not leave robot battery charging overnight.
 
-FILE S1 IS EDITED
